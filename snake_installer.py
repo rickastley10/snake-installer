@@ -119,8 +119,5 @@ while True:
             except:
                 print(error)
 
-
-
-    
-                
-
+    if ch=="0":
+        quit
